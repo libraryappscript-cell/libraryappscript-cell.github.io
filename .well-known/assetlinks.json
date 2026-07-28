@@ -1,1 +1,13 @@
 
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.muraly.naadanchips",
+      "sha256_cert_fingerprints": [
+        "46:CE:6B:BC:57:59:C8:04:7E:AF:32:E8:6C:CA:12:CC:16:8A:1D:F4:CB:D9:76:BD:76:61:D1:E4:9B:59:F8:16"
+      ]
+    }
+  }
+]
